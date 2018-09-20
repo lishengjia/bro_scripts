@@ -8,8 +8,10 @@
 > * response time
 
 ## 使用流程：
-1，Bro采用编译安装，目前测试过2.4和2.5
-2, 安装自定义脚本
+
+1，Bro采用编译安装，目前测试过Bro2.4和Bro2.5
+
+2，安装自定义脚本
 ```
 # mv http-custom /usr/local/bro/share/bro/base/protocols
 ```
